@@ -1,4 +1,4 @@
-# bookbot
+# Pokedex CLI
 
 This is a simple project aimed at practicing my Go skills, created by [Boot.dev](https://www.boot.dev/tracks/backend).
 This project aims to create a cli where you can visit areas, inspect and capture pokemon.
